@@ -15,7 +15,6 @@ void main(){
     char d='A';
 printf("\n%c",d);
 
-
 const float pi=3.1412f;
 printf("\n%.4f",pi);
 
