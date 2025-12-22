@@ -6,7 +6,6 @@ void main(){
     scanf("%d",&choice);
 
     switch(4){
-        break;
         case 1:
         printf("You have selected English");
         break;
