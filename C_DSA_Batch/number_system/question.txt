@@ -1,0 +1,86 @@
+Easy
+1. Natural Numbers
+1, 2, 3, 4, 5, ...
+
+2. Whole Numbers
+0, 1, 2, 3, 4, ...
+
+3. Even Numbers
+2, 4, 6, 8, 10, ...
+
+4. Odd Numbers
+1, 3, 5, 7, 9, ...
+
+5. Arithmetic Progression (AP)
+3, 6, 9, 12, ...
+
+6. Geometric Progression (GP)
+2, 4, 8, 16, ...
+
+7. Squares
+1, 4, 9, 16, 25, ...
+
+8. Cubes
+1, 8, 27, 64, ...
+
+9. Multiples of a Number
+5, 10, 15, 20, ...
+
+MEDIUM LEVEL (Logic + observation)
+Requires pattern spotting
+
+10. Fibonacci Series
+0, 1, 1, 2, 3, 5, 8, ...
+
+11. Prime Number Series
+2, 3, 5, 7, 11, 13, ...
+
+12. Alternating Series
+2, 4, 3, 9, 4, 16, ...
+(+2, ×3, +1, ×4)
+
+13. Increasing Difference Series
+2, 5, 10, 17, 26, ...
+(+3, +5, +7, +9)
+
+14. Decreasing Series
+100, 90, 80, 70, ...
+
+15. Mixed Operation Series
+5, 11, 23, 47, ...
+(×2 +1)
+
+16. Number + Square Pattern
+2, 6, 12, 20, ...
+(n² + n)
+
+DIFFICULT LEVEL (Advanced aptitude & DSA)
+
+Needs deep logic / multiple rules
+
+17. Double Pattern Series
+1, 4, 9, 16 | 2, 8, 18, 32
+
+18. Position-Based Series
+1×1, 2×2, 3×3, 4×4
+
+19. Hidden Arithmetic Series
+4, 9, 19, 39, ...
+(×2 +1)
+
+20. Digit Manipulation Series
+12, 21, 13, 31, 14, 41
+
+21. Series Based on Previous Two Terms
+2, 3, 5, 11, 17, ...
+(aₙ = aₙ₋₁ + aₙ₋₂ + 1)
+
+22. Series Using Fractions
+1/2, 2/3, 3/4, 4/5, ...
+
+23. Series with Prime + Index
+2, 5, 10, 17, ...
+(prime + position²)
+
+24. Series with Multiple Alternation
+1, 3, 6, 10, 15 | 2, 4, 8, 16
