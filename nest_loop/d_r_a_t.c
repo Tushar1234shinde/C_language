@@ -1,5 +1,6 @@
 // downword number pattern with for loop
 //
+
 #include <stdio.h>
 void main()
 {
@@ -12,4 +13,5 @@ void main()
         }
         printf("\n");
     }
+
 }
