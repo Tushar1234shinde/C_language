@@ -7,4 +7,5 @@ void main(){
             printf("\n%d",arr2[row][col]);
         }
     }
+
 }
